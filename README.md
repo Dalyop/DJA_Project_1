@@ -77,8 +77,8 @@ Before starting, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/django-jumia-clone.git
-cd django-jumia-clone
+git clone https://github.com/Dalyop/DJA_Project_1.git
+cd DJA_Project_1
 ```
 
 ### 2. Create and Activate a Virtual Environment
